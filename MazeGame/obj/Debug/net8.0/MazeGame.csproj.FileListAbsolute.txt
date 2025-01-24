@@ -1,0 +1,14 @@
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\bin\Debug\net8.0\MazeGame.exe
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\bin\Debug\net8.0\MazeGame.deps.json
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\bin\Debug\net8.0\MazeGame.runtimeconfig.json
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\bin\Debug\net8.0\MazeGame.dll
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\bin\Debug\net8.0\MazeGame.pdb
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfoInputs.cache
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfo.cs
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.csproj.CoreCompileInputs.cache
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.dll
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\refint\MazeGame.dll
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.pdb
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\MazeGame.genruntimeconfig.cache
+c:\Users\iaan.roux\OneDrive - Entelect Software (Pty) Ltd\source_code\design-patterns\creational\FactoryPatternMazeGame\MazeGame\obj\Debug\net8.0\ref\MazeGame.dll
